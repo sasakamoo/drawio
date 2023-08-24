@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T20:01:20.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WjJ30N9IWLtoj6KRTDsp" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T20:03:42.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WSB4ikgcRHBoo0YvUhZr" version="21.4.0" type="github">
   <diagram name="Page-1" id="ZNQh0zSQsQ9tvnZwubGB">
     <mxGraphModel dx="812" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -45,7 +45,7 @@
             <mxPoint x="270" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="270" y="190" />
-              <mxPoint x="270" y="280" />
+              <mxPoint x="270" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -88,8 +88,17 @@
         <mxCell id="Dv3c_OqVLys8aWjud5HA-38" value="`alpha = (c-v_z)/(c+v_z)`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="170" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Dv3c_OqVLys8aWjud5HA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dv3c_OqVLys8aWjud5HA-39" target="Dv3c_OqVLys8aWjud5HA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv3c_OqVLys8aWjud5HA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dv3c_OqVLys8aWjud5HA-39" target="Dv3c_OqVLys8aWjud5HA-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-39" value="High Voltage Channel Switch&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv3c_OqVLys8aWjud5HA-43" value="Analog Front End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
