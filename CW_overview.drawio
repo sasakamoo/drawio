@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T19:43:07.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qfZOMIj1ZsqDtpUxAoOL" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T19:53:42.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="skC62hW3v79JYRCHJOCb" version="21.4.0" type="github">
   <diagram name="Page-1" id="ZNQh0zSQsQ9tvnZwubGB">
     <mxGraphModel dx="812" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="Dv3c_OqVLys8aWjud5HA-1" value="Verasonics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="104.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dv3c_OqVLys8aWjud5HA-3" value="Transmit wave with centre frequency `f`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Dv3c_OqVLys8aWjud5HA-3" value="Transmit wave with centre frequency `f_c`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="104.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=60;" vertex="1" parent="1">
@@ -66,11 +66,20 @@
         <mxCell id="Dv3c_OqVLys8aWjud5HA-26" value="Rx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="219.7" y="185.5" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Dv3c_OqVLys8aWjud5HA-34" value="`lambda = c/f`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Dv3c_OqVLys8aWjud5HA-34" value="`lambda = c/f_c`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="38.32" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-35" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="170" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv3c_OqVLys8aWjud5HA-36" value="`lambda = c/(alpha*f_c-f_c)`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv3c_OqVLys8aWjud5HA-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.567;exitY=0.081;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#BD1128;strokeColor=#F00000;" edge="1" parent="1" source="Dv3c_OqVLys8aWjud5HA-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="220" as="sourcePoint" />
+            <mxPoint x="180" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
