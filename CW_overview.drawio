@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T19:21:56.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="pB0IKXqlHTZ18VmWLgVy" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T19:22:40.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="v47KiCwy707pXyI5gXpf" version="21.4.0" type="github">
   <diagram name="Page-1" id="ZNQh0zSQsQ9tvnZwubGB">
     <mxGraphModel dx="812" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-20" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;" vertex="1" parent="1">
           <mxGeometry x="280" y="68.32" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv3c_OqVLys8aWjud5HA-21" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;" vertex="1" parent="1">
+          <mxGeometry x="280" y="177.66" width="80" height="25.68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
