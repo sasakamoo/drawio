@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T20:37:32.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dzgAfAN8qrZBrJWXKCEE" version="21.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-24T20:38:10.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4c6R_bb9N0gsP9noxE5p" version="21.4.0" type="github" pages="2">
   <diagram name="CW Overview" id="ZNQh0zSQsQ9tvnZwubGB">
     <mxGraphModel dx="749" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="280" y="68.32" width="90" height="66.18" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-21" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;" vertex="1" parent="1">
-          <mxGeometry x="280" y="190" width="80" height="25.68" as="geometry" />
+          <mxGeometry x="280" y="201" width="80" height="25.68" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-23" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="90" height="20" as="geometry" />
@@ -74,10 +74,10 @@
           <mxGeometry x="255" y="38.32" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-35" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="80" height="20" as="geometry" />
+          <mxGeometry x="280" y="185.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-36" value="`lambda_r = c/(alpha*f_c`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="155.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.567;exitY=0.081;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#BD1128;strokeColor=#F00000;" edge="1" parent="1" source="Dv3c_OqVLys8aWjud5HA-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
