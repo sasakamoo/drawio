@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T20:28:00.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="87Qd-cjpkzWSuz2GE4uW" version="21.4.0" type="github" pages="2">
-  <diagram name="Page-1" id="ZNQh0zSQsQ9tvnZwubGB">
-    <mxGraphModel dx="609" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-08-24T20:37:32.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dzgAfAN8qrZBrJWXKCEE" version="21.4.0" type="github" pages="2">
+  <diagram name="CW Overview" id="ZNQh0zSQsQ9tvnZwubGB">
+    <mxGraphModel dx="749" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry x="209.7" y="175.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-19" value="Transducer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="204.7" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="204.7" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-20" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;" vertex="1" parent="1">
           <mxGeometry x="280" y="68.32" width="90" height="66.18" as="geometry" />
@@ -82,7 +82,7 @@
         <mxCell id="Dv3c_OqVLys8aWjud5HA-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.567;exitY=0.081;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#BD1128;strokeColor=#F00000;" edge="1" parent="1" source="Dv3c_OqVLys8aWjud5HA-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="220" as="sourcePoint" />
-            <mxPoint x="180" y="100" as="targetPoint" />
+            <mxPoint x="200" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-38" value="`alpha = (c-v_z)/(c+v_z)`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -145,16 +145,19 @@
             <mxPoint x="180" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w8hj5UeETkGiPevrct_6-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.16514563403081384;endAngle=0.26428545710523405;" vertex="1" parent="1">
+        <mxCell id="w8hj5UeETkGiPevrct_6-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.17620819117478337;endAngle=0.26428545710523405;" vertex="1" parent="1">
           <mxGeometry x="129.7" y="99.25" width="40.3" height="38.32" as="geometry" />
         </mxCell>
         <mxCell id="w8hj5UeETkGiPevrct_6-16" value="`theta`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="110" width="10.3" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="nDeFZvLZbtRp4Ps3i7-c-1" value="`vec v`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="68.32" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="jeZ3FxAD1R6Lj2mivJum" name="Page-2">
+  <diagram id="jeZ3FxAD1R6Lj2mivJum" name="Demod Overview">
     <mxGraphModel dx="1461" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
