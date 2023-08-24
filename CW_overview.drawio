@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T20:03:42.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WSB4ikgcRHBoo0YvUhZr" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T20:08:48.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="osiUjdydsO9K3dPD64WI" version="21.4.0" type="github">
   <diagram name="Page-1" id="ZNQh0zSQsQ9tvnZwubGB">
     <mxGraphModel dx="812" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -70,13 +70,13 @@
         <mxCell id="Dv3c_OqVLys8aWjud5HA-26" value="Rx" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="219.7" y="185.5" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Dv3c_OqVLys8aWjud5HA-34" value="`lambda = c/f_c`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Dv3c_OqVLys8aWjud5HA-34" value="`lambda_t = c/f_c`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="38.32" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-35" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="170" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Dv3c_OqVLys8aWjud5HA-36" value="`lambda = c/(alpha*f_c`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Dv3c_OqVLys8aWjud5HA-36" value="`lambda_r = c/(alpha*f_c`" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.567;exitY=0.081;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#BD1128;strokeColor=#F00000;" edge="1" parent="1" source="Dv3c_OqVLys8aWjud5HA-4">
@@ -98,7 +98,7 @@
           <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-43" value="Analog Front End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
