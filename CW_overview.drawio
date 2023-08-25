@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T17:23:16.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WyMqsnzQvU0HszHPWvIG" version="21.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-25T17:24:01.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qJ4x0-wnViwhrc823Jrv" version="21.4.0" type="github" pages="2">
   <diagram name="CW Overview" id="ZNQh0zSQsQ9tvnZwubGB">
-    <mxGraphModel dx="769" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="769" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-43" value="Analog Front End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="290" width="125" height="30" as="geometry" />
+          <mxGeometry x="317.5" y="290" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dv3c_OqVLys8aWjud5HA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dv3c_OqVLys8aWjud5HA-46" target="Dv3c_OqVLys8aWjud5HA-48">
           <mxGeometry relative="1" as="geometry" />
@@ -160,7 +160,7 @@
           <mxGeometry x="170" y="68.32" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nDeFZvLZbtRp4Ps3i7-c-4" value="I" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="440" y="285" width="15" height="20" as="geometry" />
+          <mxGeometry x="435" y="285" width="15" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nDeFZvLZbtRp4Ps3i7-c-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="nDeFZvLZbtRp4Ps3i7-c-5" target="Dv3c_OqVLys8aWjud5HA-46">
           <mxGeometry relative="1" as="geometry">
@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nDeFZvLZbtRp4Ps3i7-c-5" value="Q" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="440" y="305" width="15" height="20" as="geometry" />
+          <mxGeometry x="435" y="305" width="15" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
