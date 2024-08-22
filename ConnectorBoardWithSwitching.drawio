@@ -1,19 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="OriginalConnectorBoard" id="GSEk0nwp7x0-JZo_bWTT">
-    <mxGraphModel dx="1044" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-1" target="ml5e8ZSBlZIh5sLkF6KI-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="550" />
+              <mxPoint x="310" y="385" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-57" value="EL65-EL128" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ml5e8ZSBlZIh5sLkF6KI-49">
           <mxGeometry x="0.6606" y="-5" relative="1" as="geometry">
-            <mxPoint x="17" y="-5" as="offset" />
+            <mxPoint x="12" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-1" target="ml5e8ZSBlZIh5sLkF6KI-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="550" />
+              <mxPoint x="310" y="715" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-56" value="EL1-EL64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ml5e8ZSBlZIh5sLkF6KI-51">
           <mxGeometry x="0.719" relative="1" as="geometry">
@@ -21,32 +31,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-1" value="Connector 1 to Verasonics (Elements 1-128)" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="430" width="120" height="240" as="geometry" />
+          <mxGeometry x="170" y="440" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-3" target="ml5e8ZSBlZIh5sLkF6KI-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="550" />
+              <mxPoint x="540" y="385" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-58" value="EL193-EL256" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ml5e8ZSBlZIh5sLkF6KI-50">
           <mxGeometry x="0.7744" relative="1" as="geometry">
-            <mxPoint x="4" as="offset" />
+            <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-3" target="ml5e8ZSBlZIh5sLkF6KI-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="550" />
+              <mxPoint x="540" y="715" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-59" value="EL129-EL192" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ml5e8ZSBlZIh5sLkF6KI-52">
           <mxGeometry x="0.8144" y="-1" relative="1" as="geometry">
-            <mxPoint x="11" y="1" as="offset" />
+            <mxPoint x="20" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-3" value="Connector 2 to Verasonics (Elements 129-256)" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="430" width="120" height="240" as="geometry" />
+          <mxGeometry x="560" y="430" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-10" value="ZIF 1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="200" width="60" height="310" as="geometry" />
+          <mxGeometry x="395" y="230" width="60" height="310" as="geometry" />
         </mxCell>
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-11" value="ZIF 2" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="590" width="60" height="310" as="geometry" />
+          <mxGeometry x="395" y="560" width="60" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
