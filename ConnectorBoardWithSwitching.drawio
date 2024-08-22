@@ -107,7 +107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SwitchingConnectorBoard" id="YyWv-tik8myCa6kZJ2PY">
-    <mxGraphModel dx="1461" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vUpWcGAFw3WdCZU-Pd-7-0" />
         <mxCell id="vUpWcGAFw3WdCZU-Pd-7-1" parent="vUpWcGAFw3WdCZU-Pd-7-0" />
@@ -122,19 +122,6 @@
         <mxCell id="vUpWcGAFw3WdCZU-Pd-7-3" value="EL65-EL128" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vUpWcGAFw3WdCZU-Pd-7-2">
           <mxGeometry x="0.6606" y="-5" relative="1" as="geometry">
             <mxPoint x="1" y="-5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vUpWcGAFw3WdCZU-Pd-7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vUpWcGAFw3WdCZU-Pd-7-1" source="vUpWcGAFw3WdCZU-Pd-7-6" target="vUpWcGAFw3WdCZU-Pd-7-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="550" />
-              <mxPoint x="310" y="715" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vUpWcGAFw3WdCZU-Pd-7-5" value="EL1-EL64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vUpWcGAFw3WdCZU-Pd-7-4">
-          <mxGeometry x="0.719" relative="1" as="geometry">
-            <mxPoint x="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vUpWcGAFw3WdCZU-Pd-7-6" value="Connector 1 to Verasonics (Elements 1-128)" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vUpWcGAFw3WdCZU-Pd-7-1">
@@ -187,15 +174,6 @@
             <mxPoint x="520" y="290.0000000000001" as="targetPoint" />
             <Array as="points">
               <mxPoint x="530" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vUpWcGAFw3WdCZU-Pd-7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vUpWcGAFw3WdCZU-Pd-7-1" source="vUpWcGAFw3WdCZU-Pd-7-18" target="vUpWcGAFw3WdCZU-Pd-7-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="740" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="150" y="190" />
-              <mxPoint x="150" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
