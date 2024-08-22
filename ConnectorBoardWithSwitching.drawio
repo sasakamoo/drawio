@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="2">
   <diagram name="OriginalConnectorBoard" id="GSEk0nwp7x0-JZo_bWTT">
-    <mxGraphModel dx="1461" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ml5e8ZSBlZIh5sLkF6KI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-1" target="ml5e8ZSBlZIh5sLkF6KI-10" edge="1">
+        <mxCell id="ml5e8ZSBlZIh5sLkF6KI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-1" target="ml5e8ZSBlZIh5sLkF6KI-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="550" />
@@ -17,7 +17,7 @@
             <mxPoint x="1" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ml5e8ZSBlZIh5sLkF6KI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-1" target="ml5e8ZSBlZIh5sLkF6KI-11" edge="1">
+        <mxCell id="ml5e8ZSBlZIh5sLkF6KI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-1" target="ml5e8ZSBlZIh5sLkF6KI-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="550" />
@@ -33,7 +33,7 @@
         <mxCell id="ml5e8ZSBlZIh5sLkF6KI-1" value="Connector 1 to Verasonics (Elements 1-128)" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="440" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ml5e8ZSBlZIh5sLkF6KI-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-3" target="ml5e8ZSBlZIh5sLkF6KI-10" edge="1">
+        <mxCell id="ml5e8ZSBlZIh5sLkF6KI-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-3" target="ml5e8ZSBlZIh5sLkF6KI-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="550" />
@@ -46,7 +46,7 @@
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ml5e8ZSBlZIh5sLkF6KI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-3" target="ml5e8ZSBlZIh5sLkF6KI-11" edge="1">
+        <mxCell id="ml5e8ZSBlZIh5sLkF6KI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="ml5e8ZSBlZIh5sLkF6KI-3" target="ml5e8ZSBlZIh5sLkF6KI-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="550" />
@@ -107,7 +107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SwitchingConnectorBoard" id="YyWv-tik8myCa6kZJ2PY">
-    <mxGraphModel dx="584" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vUpWcGAFw3WdCZU-Pd-7-0" />
         <mxCell id="vUpWcGAFw3WdCZU-Pd-7-1" parent="vUpWcGAFw3WdCZU-Pd-7-0" />
