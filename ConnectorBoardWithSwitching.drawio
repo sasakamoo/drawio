@@ -107,7 +107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SwitchingConnectorBoard" id="YyWv-tik8myCa6kZJ2PY">
-    <mxGraphModel dx="1218" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="584" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vUpWcGAFw3WdCZU-Pd-7-0" />
         <mxCell id="vUpWcGAFw3WdCZU-Pd-7-1" parent="vUpWcGAFw3WdCZU-Pd-7-0" />
@@ -206,6 +206,12 @@
         </mxCell>
         <mxCell id="iN4W8nAzqAKBH2NPYbL1-13" value="64 Channel Switching Bank" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="vUpWcGAFw3WdCZU-Pd-7-1">
           <mxGeometry x="308" y="930" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iN4W8nAzqAKBH2NPYbL1-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="vUpWcGAFw3WdCZU-Pd-7-1" source="iN4W8nAzqAKBH2NPYbL1-13" target="vUpWcGAFw3WdCZU-Pd-7-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="880" as="sourcePoint" />
+            <mxPoint x="480" y="830" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
