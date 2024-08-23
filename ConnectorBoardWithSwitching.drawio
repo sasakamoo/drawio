@@ -107,7 +107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SwitchingConnectorBoard" id="YyWv-tik8myCa6kZJ2PY">
-    <mxGraphModel dx="1878" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vUpWcGAFw3WdCZU-Pd-7-0" />
         <mxCell id="vUpWcGAFw3WdCZU-Pd-7-1" parent="vUpWcGAFw3WdCZU-Pd-7-0" />
@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SwitchingConnectorBoardWithAFE" id="CyYafuLt-RGfIemsk0Mm">
-    <mxGraphModel dx="1018" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="2VICsgHZ8hiY-PuOCTsH-0" />
         <mxCell id="2VICsgHZ8hiY-PuOCTsH-1" parent="2VICsgHZ8hiY-PuOCTsH-0" />
@@ -342,8 +342,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2VICsgHZ8hiY-PuOCTsH-22" value="Coax Bundle Connector" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2VICsgHZ8hiY-PuOCTsH-1">
-          <mxGeometry x="222" y="860" width="147" height="40" as="geometry" />
+        <mxCell id="2VICsgHZ8hiY-PuOCTsH-22" value="Coaxial Bundle Connector" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2VICsgHZ8hiY-PuOCTsH-1">
+          <mxGeometry x="211" y="860" width="168" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1W06Yf81l82jgtWLGUlF-0" value="" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="2VICsgHZ8hiY-PuOCTsH-1" source="2VICsgHZ8hiY-PuOCTsH-22" target="1W06Yf81l82jgtWLGUlF-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -355,7 +355,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1W06Yf81l82jgtWLGUlF-9" value="IPEX Bundle" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1W06Yf81l82jgtWLGUlF-0">
+        <mxCell id="1W06Yf81l82jgtWLGUlF-9" value="Coaxial Bundle" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1W06Yf81l82jgtWLGUlF-0">
           <mxGeometry x="-0.012" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -363,7 +363,7 @@
         <mxCell id="1W06Yf81l82jgtWLGUlF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2VICsgHZ8hiY-PuOCTsH-1" source="1W06Yf81l82jgtWLGUlF-1" target="1W06Yf81l82jgtWLGUlF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1W06Yf81l82jgtWLGUlF-1" value="&amp;nbsp;Coax Bundle to SMA Adapter Board" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2VICsgHZ8hiY-PuOCTsH-1">
+        <mxCell id="1W06Yf81l82jgtWLGUlF-1" value="&amp;nbsp;Coaxial Bundle to SMA Adapter Board" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2VICsgHZ8hiY-PuOCTsH-1">
           <mxGeometry x="413" y="857.5" width="230" height="45" as="geometry" />
         </mxCell>
         <mxCell id="1W06Yf81l82jgtWLGUlF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2VICsgHZ8hiY-PuOCTsH-1" source="1W06Yf81l82jgtWLGUlF-2" target="1W06Yf81l82jgtWLGUlF-8">
